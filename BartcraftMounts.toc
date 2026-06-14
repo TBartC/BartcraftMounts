@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: Bartcraft Mounts
+## Notes: Adds a Mounts tab to the TBC spellbook and shows learned mount spells.
+## Author: Bartcraft
+## Version: 0.9-dev
+## SavedVariables: BartcraftMountsDB
+
+BartcraftMounts.lua
