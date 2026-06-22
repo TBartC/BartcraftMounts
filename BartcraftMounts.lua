@@ -232,6 +232,10 @@ local BARTCRAFT_MOUNTS = {
     {49379, "Great Brewfest Kodo", "Interface\\Icons\\Ability_Mount_Kodo_01"},
     {51412, "Big Battle Bear", "Interface\\Icons\\Ability_Mount_WarBear"},
     {1, "Obsidia", "Interface\\Icons\\Ability_Mount_NetherDrakePurple"},
+    {36027, "Golden Dragonhawk", "Interface\\Icons\\Ability_Hunter_Pet_DragonHawk"},
+    {36028, "Red Dragonhawk", "Interface\\Icons\\Ability_Hunter_Pet_DragonHawk"},
+    {36029, "Silver Dragonhawk", "Interface\\Icons\\Ability_Hunter_Pet_DragonHawk"},
+    {36031, "Blue Dragonhawk", "Interface\\Icons\\Ability_Hunter_Pet_DragonHawk"},
 }  
 
 local mountByID = {}
