@@ -236,6 +236,9 @@ local BARTCRAFT_MOUNTS = {
     {36028, "Red Dragonhawk", "Interface\\Icons\\Ability_Hunter_Pet_DragonHawk"},
     {36029, "Silver Dragonhawk", "Interface\\Icons\\Ability_Hunter_Pet_DragonHawk"},
     {36031, "Blue Dragonhawk", "Interface\\Icons\\Ability_Hunter_Pet_DragonHawk"},
+    {39910, "Emerald Drake", "Interface\\Icons\\INV_Misc_Head_Dragon_Green", true},
+    {10804, "Chromatic Drake", "Interface\\Icons\\INV_Misc_Head_Dragon_Red", true},
+    {39450, "Bronze Drake", "Interface\\Icons\\INV_Misc_Head_Dragon_Bronze", true},
 }  
 
 local mountByID = {}
